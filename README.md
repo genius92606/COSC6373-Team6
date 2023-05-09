@@ -24,8 +24,10 @@ Our project have several steps, so we separate all the code to three folders: Da
     2. Train with enhanced images
     3. Train with transformer
     4. Train with both enchanced images and transformer
+    5. Train with transformer using 100 epochs
+    6. Train with transformer using 300 epochs
 3.  Testing and Evaluation:
-    1. Predicting results using all the models (4 models)
+    1. Predicting results using all the models (6 models)
     2. Evaluate all the models.
 
 ## <div align="center"></div>
@@ -97,6 +99,30 @@ yolo predict model=yolov8n.pt source='https://ultralytics.com/images/bus.jpg'
 <details open>
 <summary>Testing and Evaluation</summary>
 
+As mentioned we have several model weights in the weights folder:
+1. yolov8_30.pt: model trained on original train data for 30 epochs
+2. yolov8_30_enhanced.pt: model trained on enhanced train data for 30 epochs
+3. yolov8_30_transformer.pt
+4. yolov8_30_transformer_enhanced.pt
+5. yolov8_100_transformer.pt
+6. yolov8_300_transformer.pt
+| Model weights| Description | 
+| ---------------------- | --------------------- |
+| yolov8_30.pt | model trained on original train data for 30 epochs |
+| yolov8_30_enhanced.pt | model trained on enhanced train data for 30 epochs |
+| yolov8_30_transformer.pt | |
+| yolov8_30_transformer_enhanced.pt | |
+| yolov8_100_transformer.pt | |
+  
+
+Therefore, we have 6 result folers
+1.  yolov8_30_output: the result for fine-tune yolov8 for 30 epochs on original train data
+2.  yolov8_30_enhanced_output: the result for fine-tune yolov8 for 30 epochs on enhanced train data
+3.  yolov8_30_transformer_enhanced_output
+4.  yolov8_30_enhanced_output
+5.  yolov8_100_transformer_output
+6.  yolov8_300_transformer_output
+ 
 ```bash
 python
 yolo predict model=yolov8n.pt source='https://ultralytics.com/images/bus.jpg'
