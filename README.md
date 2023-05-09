@@ -99,7 +99,12 @@ yolo predict model=yolov8n.pt source='https://ultralytics.com/images/bus.jpg'
 <details open>
 <summary>Testing and Evaluation</summary>
 
-As mentioned we have several model weights in the weights folder:
+```bash
+# Go to Testing folder
+cd Testing
+``` 
+ 
+As mentioned, we have several model weights in this folder:
   
 | Model weights| Description | 
 | ---------------------- | --------------------- |
@@ -110,7 +115,7 @@ As mentioned we have several model weights in the weights folder:
 | yolov8_100_transformer.pt | |
 | yolov8_300_transformer.pt | |
 
-Therefore, we have 6 result folers
+Therefore, we have 6 result folders
 
 | Result folder | Description | 
 | ---------------------- | --------------------- |
@@ -120,10 +125,26 @@ Therefore, we have 6 result folers
 | yolov8_30_transformer_enhanced_output | |
 | yolov8_100_transformer_output | |
 | yolov8_300_transformer_output | |
-  
+
+## To test the result from pre-trained model
+1. Run the test.py to get output
+Format: python test.py -model 'path for the weight' -input 'path for input images' -output 'output path'
+
 ```bash
 python
-yolo predict model=yolov8n.pt source='https://ultralytics.com/images/bus.jpg'
-```
+#example1: testing on the yolov8_30.pt with original validation data and output to yolov8_30_output
+python3 python3 test.py -model yolov8_30.pt -input WIDER_val/images/ -output yolov8_30_output
 
+#example2: testing on the yolov8_30_enhanced with enhanced validation data and output to yolov8_30_enhanced_output/
+python3 test.py -model yolov8_30_enhanced.pt -input WIDER_val_enhanced/images/ -output yolov8_30_enhanced_output/
+```
+  
+2.  Show one result, note that it takes about 30ms for one image, exit by press any key.
+Format: python test_single_img.py -model 'weight path' -img 'image path'
+```bash
+python
+#example: 
+python3 test_single_img.py -model yolov8_30.pt -img WIDER_val/images/0--Parade/0_Parade_marchingband_1_20.jpg
+
+```
 </details>
