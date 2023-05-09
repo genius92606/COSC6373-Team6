@@ -127,10 +127,10 @@ As mentioned, we have several model weights in this folder:
 | ---------------------- | --------------------- |
 | yolov8_30.pt | model trained on original train data for 30 epochs |
 | yolov8_30_enhanced.pt | model trained on enhanced train data for 30 epochs |
-| yolov8_30_transformer.pt | |
-| yolov8_30_transformer_enhanced.pt | |
-| yolov8_100_transformer.pt | |
-| yolov8_300_transformer.pt | |
+| yolov8_30_transformer.pt | model with transformer trained on original train data for 30 epochs |
+| yolov8_30_transformer_enhanced.pt | model with transformer trained on enhanced train data for 30 epochs |
+| yolov8_100_transformer.pt | model with transformer trained on original train data for 100 epochs |
+| yolov8_300_transformer.pt | model with transformer trained on original train data for 300 epochs |
 
 Therefore, we have 6 result folders
 
@@ -138,10 +138,10 @@ Therefore, we have 6 result folders
 | ---------------------- | --------------------- |
 | yolov8_30_output | model trained on original train data for 30 epochs |
 | yolov8_30_enhanced_output | model trained on enhanced train data for 30 epochs |
-| yolov8_30_transformer_output | |
-| yolov8_30_transformer_enhanced_output | |
-| yolov8_100_transformer_output | |
-| yolov8_300_transformer_output | |
+| yolov8_30_transformer_output | model with transformer trained on original train data for 30 epochs |
+| yolov8_30_transformer_enhanced_output | model with transformer trained on enhanced train data for 30 epochs |
+| yolov8_100_transformer_output | model with transformer trained on original train data for 100 epochs |
+| yolov8_300_transformer_output | model with transformer trained on original train data for 300 epochs |
 
 ## To test the result from pre-trained model
 1. Run the test.py to get output
