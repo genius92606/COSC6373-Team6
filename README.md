@@ -9,7 +9,7 @@ First, we have to create an anaconda environment installed with required librari
 ```
 conda create -n team6 python=3.8 -y
 conda activate team6
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 </details>
