@@ -30,7 +30,7 @@ Our project have several steps, so we separate all the code to three folders: Da
 
 ## <div align="center"></div>
 
-<details open>
+<details close>
 <summary>Data Processing</summary>
 
 clone the this repository
@@ -82,7 +82,7 @@ this will copy the enhanced val images to the WIDER_val/images, compress it for 
 
 ## <div align="center"></div>
 
-<details open>
+<details close>
 <summary>Training</summary>
 
 ```bash
