@@ -7,7 +7,7 @@ First, we have to create an anaconda environment installed with required librari
 <summary>Install</summary>
   
 ```
-conda create -n team6 -c notebook nb_conda_kernels
+conda create -n team6 python=3.8 -y
 conda activate team6
 pip install requirements.txt
 ```
