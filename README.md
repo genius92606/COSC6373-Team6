@@ -131,7 +131,6 @@ Therefore, we have 6 result folders
 Format: python test.py -model 'path for the weight' -input 'path for input images' -output 'output path'
 
 ```bash
-python
 #example1: testing on the yolov8_30.pt with original validation data and output to yolov8_30_output
 python3 python3 test.py -model yolov8_30.pt -input WIDER_val/images/ -output yolov8_30_output
 
@@ -142,7 +141,6 @@ python3 test.py -model yolov8_30_enhanced.pt -input WIDER_val_enhanced/images/ -
 2.  Show one result, note that it takes about 30ms for one image, exit by press any key.
 Format: python test_single_img.py -model 'weight path' -img 'image path'
 ```bash
-python
 #example: 
 python3 test_single_img.py -model yolov8_30.pt -img WIDER_val/images/0--Parade/0_Parade_marchingband_1_20.jpg
 
