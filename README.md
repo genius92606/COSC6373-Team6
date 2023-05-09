@@ -151,4 +151,23 @@ Format: python test_single_img.py -model 'weight path' -img 'image path'
 python test_single_img.py -model yolov8_30.pt -img WIDER_val/images/0--Parade/0_Parade_marchingband_1_20.jpg
 
 ```
+  
+## To evaluate the predicted result on widerface
+  
+We will use the code from https://github.com/derronqi/yolov7-face/tree/main/widerface_evaluate
+  
+```bash
+#step1. Get in the widerface_evaluate folder
+cd widerface_evaluate
+
+#step2. Build the code
+python setup.py build_ext --inplace
+
+#step3. run the evaluation
+# format: python3 evaluation.py -p 'predict result path' -g 'ground_truth path'
+
+python evaluation.py -p ../widerface_result_txt -g ground_truth
+```
+
+
 </details>
