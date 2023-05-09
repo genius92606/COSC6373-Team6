@@ -27,7 +27,7 @@ Our project have several steps, so we separate all the code to three folders: Da
 3.  Testing and Evaluation:
     1. Predicting results using all the models (4 models)
     2. Evaluate all the models.
-
+## <div align="center"></div>
 
 <details open>
 <summary>Data Processing</summary>
@@ -78,7 +78,7 @@ this will copy the enhanced images to the train,val images files, compress them 
 this will copy the enhanced val images to the WIDER_val/images, compress it for testing.
   
 </details>
-
+## <div align="center"></div>
 <details open>
 <summary>Training</summary>
 
