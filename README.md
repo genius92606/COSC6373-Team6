@@ -106,6 +106,7 @@ As mentioned we have several model weights in the weights folder:
 4. yolov8_30_transformer_enhanced.pt
 5. yolov8_100_transformer.pt
 6. yolov8_300_transformer.pt
+  
 | Model weights| Description | 
 | ---------------------- | --------------------- |
 | yolov8_30.pt | model trained on original train data for 30 epochs |
