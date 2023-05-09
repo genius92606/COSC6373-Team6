@@ -132,7 +132,7 @@ Format: python test.py -model 'path for the weight' -input 'path for input image
 
 ```bash
 #example1: testing on the yolov8_30.pt with original validation data and output to yolov8_30_output
-python python3 test.py -model yolov8_30.pt -input WIDER_val/images/ -output yolov8_30_output/
+python test.py -model yolov8_30.pt -input WIDER_val/images/ -output yolov8_30_output/
 
 #example2: testing on the yolov8_30_enhanced with enhanced validation data and output to yolov8_30_enhanced_output/
 python test.py -model yolov8_30_enhanced.pt -input WIDER_val_enhanced/images/ -output yolov8_30_enhanced_output/
