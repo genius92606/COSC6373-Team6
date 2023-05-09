@@ -17,8 +17,8 @@ pip install requirements.txt
 Our project have several steps, so we separate all the code to three folders: DataProcessing, Training, Testing
 (We suggest not running data processing and training cuase it would take a long time)
 1. Data Processing: 
-    1. We construct the data structure to fulfill the YOLO requirement 
-    2. We enhanced the wider face dataset by using super resolution
+    1. Construct the data structure to fulfill the YOLO requirement 
+    2. Enhance the heavy blur images in wider face dataset by using super resolution
 2. Training:
     1. We finetuned Yolov8 model for face detection.
     2. Train with enhanced images
@@ -32,11 +32,51 @@ Our project have several steps, so we separate all the code to three folders: Da
 <details open>
 <summary>Data Processing</summary>
 
+clone the this repository
 ```bash
-python
-yolo predict model=yolov8n.pt source='https://ultralytics.com/images/bus.jpg'
+cd DataProcessing
+git clone https://github.com/sczhou/CodeFormer
+cd CodeFormer
+```
+Then install more libraries
+ ```bash
+pip3 install -r requirements.txt
+python basicsr/setup.py develop
+conda install -c conda-forge dlib (only for face detection or cropping with dlib)
 ```
 
+1. Preparing data:
+Find all the heavy blur images in train and val dataset, and put them in a new folder. Which will run the process file through terminal, to download WilderFace data and prepare the data for enhancement. It takes time.
+ ```bash
+python ../widerface.py
+```
+2. Run Super Resolution (It will take forever.)
+ ```bash
+python inference_codeformer.py -w 0.7 --input_path ./train_heavy_blur --bg_upsampler realesrgan --face_upsample --output_path ./train_enhanced
+python inference_codeformer.py -w 0.7 --input_path ./val_heavy_blur --bg_upsampler realesrgan --face_upsample --output_path ./val_enhanced
+```
+3. Resize the enhanced image to their original size
+ ```bash
+python ../resize.py
+```
+4. Prepare YOLO style files
+ ```bash
+python ../yolov7_train_face_data_preparation.py
+```
+This will generate folders "train" "val" in the data/widerface and the widerface.yaml
+compress "train","val" folder as well as widerface.yaml to a zip file, this will be used for training.
+5. Prepare YOLO style enhanced files for training
+```bash
+python ../enhanced_widerface.py
+```
+this will copy the enhanced images to the train,val images files, compress them like the previous step, this will be used for training.
+
+6. Prepare WiderFace style WIDER_val/images with enhanced file
+```bash
+  python ../wilderface_val_enhance.py 
+```
+this will copy the enhanced val images to the WIDER_val/images, compress it for testing.
+  
 </details>
 
 <details open>
