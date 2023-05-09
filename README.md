@@ -86,6 +86,11 @@ this will copy the enhanced val images to the WIDER_val/images, compress it for 
 
 <details close>
 <summary>Training</summary>
+
+```bash
+# Go to Training folder
+cd Training
+```
   
 We have two datasets in this folder for training:
 
@@ -98,8 +103,7 @@ The training here use our proposed architecture which add an additional transfor
 It will be trained using original image with 300 epochs. 
   
 ```bash
-# Go to Training folder
-cd Training
+# Start training
 python train.py
 ```
 
