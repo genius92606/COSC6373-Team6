@@ -86,6 +86,14 @@ this will copy the enhanced val images to the WIDER_val/images, compress it for 
 
 <details close>
 <summary>Training</summary>
+  
+We have two data sets in this folder for evaluation:
+
+| Data sets| Description | 
+| ---------------------- | --------------------- |
+| data | the original dataset of Wider Face |
+| data_enhanced | the enhanced dataset of Wider Face |  
+  
 The training here use our proposed architecture which add an additional transformer layer on yolov8.
 It will be trained using original image with 300 epochs. 
   
