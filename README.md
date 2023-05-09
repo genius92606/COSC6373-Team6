@@ -16,7 +16,7 @@ pip install requirements.txt
 
 Our project have several steps, so we separate all the code to three folders: DataProcessing, Training, Testing
 (We suggest not running data processing and training cuase it would take a long time)
-1. Data preprocessing: 
+1. Data Processing: 
     1. We construct the data structure to fulfill the YOLO requirement 
     2. We enhanced the wider face dataset by using super resolution
 2. Training:
