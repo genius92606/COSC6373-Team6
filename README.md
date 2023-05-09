@@ -103,7 +103,13 @@ yolo predict model=yolov8n.pt source='https://ultralytics.com/images/bus.jpg'
 # Go to Testing folder
 cd Testing
 ``` 
- 
+We have two validation sets in this folder for evaluation:
+
+| Data sets| Description | 
+| ---------------------- | --------------------- |
+| WIDER_val | the original validation data of Wider Face |
+|WIDER_val_enhanced | the enhanced validation data of Wider Face |
+  
 As mentioned, we have several model weights in this folder:
   
 | Model weights| Description | 
