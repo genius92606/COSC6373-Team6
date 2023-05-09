@@ -89,7 +89,7 @@ yolo predict model=yolov8n.pt source='https://ultralytics.com/images/bus.jpg'
 
 </details>
 
-</details>
+## <div align="center"></div>
 
 <details open>
 <summary>Testing and Evaluation</summary>
