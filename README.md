@@ -86,10 +86,11 @@ this will copy the enhanced val images to the WIDER_val/images, compress it for 
 
 <details close>
 <summary>Training</summary>
-
+The training here use our proposed architecture which add an additional transformer layer on yolov8.
+It will be trained using original image with 300 epochs. 
 ```bash
-python
-yolo predict model=yolov8n.pt source='https://ultralytics.com/images/bus.jpg'
+cd Training
+python train.py
 ```
 
 </details>
