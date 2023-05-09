@@ -42,7 +42,7 @@ yolo predict model=yolov8n.pt source='https://ultralytics.com/images/bus.jpg'
 <details open>
 <summary>Training</summary>
 
-```
+```bash
 python
 yolo predict model=yolov8n.pt source='https://ultralytics.com/images/bus.jpg'
 ```
