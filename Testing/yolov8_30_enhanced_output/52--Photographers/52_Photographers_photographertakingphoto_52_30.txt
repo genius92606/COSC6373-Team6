@@ -1,0 +1,5 @@
+52_Photographers_photographertakingphoto_52_30
+3
+293 260 78 86 0.604
+373 295 54 72 0.066
+315 255 71 73 0.051

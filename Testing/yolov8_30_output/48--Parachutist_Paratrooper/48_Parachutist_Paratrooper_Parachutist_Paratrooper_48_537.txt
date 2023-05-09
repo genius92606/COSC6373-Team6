@@ -1,0 +1,6 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_537
+4
+428 348 78 112 0.777
+752 980 61 88 0.107
+704 1101 60 74 0.019
+836 1032 51 67 0.012

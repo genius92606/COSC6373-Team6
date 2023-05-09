@@ -1,0 +1,5 @@
+52_Photographers_photographertakingphoto_52_303
+3
+435 223 69 91 0.783
+270 222 66 114 0.052
+216 269 63 109 0.017

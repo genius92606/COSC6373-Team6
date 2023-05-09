@@ -1,0 +1,5 @@
+59_peopledrivingcar_peopledrivingcar_59_592
+3
+391 65 36 37 0.701
+414 250 24 26 0.047
+964 445 51 90 0.036

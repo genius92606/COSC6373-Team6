@@ -1,0 +1,5 @@
+52_Photographers_photographertakingphoto_52_776
+3
+276 218 580 617 0.677
+488 946 496 606 0.010
+335 0 205 83 0.010

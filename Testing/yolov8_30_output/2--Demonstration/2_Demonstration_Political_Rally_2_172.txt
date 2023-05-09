@@ -1,0 +1,4 @@
+2_Demonstration_Political_Rally_2_172
+2
+392 294 356 476 0.878
+781 154 68 92 0.016

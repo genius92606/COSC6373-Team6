@@ -1,0 +1,5 @@
+47_Matador_Bullfighter_matadorbullfighting_47_19
+3
+562 39 61 76 0.731
+605 125 83 82 0.022
+617 192 56 44 0.011

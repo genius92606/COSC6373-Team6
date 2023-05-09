@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_780
+2
+750 275 72 110 0.685
+374 289 37 54 0.149

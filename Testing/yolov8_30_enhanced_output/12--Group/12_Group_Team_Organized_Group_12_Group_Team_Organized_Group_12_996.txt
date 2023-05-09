@@ -1,0 +1,6 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_996
+4
+600 660 312 431 0.876
+363 339 300 468 0.867
+589 3 179 194 0.033
+58 555 58 78 0.020

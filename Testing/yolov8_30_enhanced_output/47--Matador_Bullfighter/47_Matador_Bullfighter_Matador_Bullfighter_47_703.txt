@@ -1,0 +1,4 @@
+47_Matador_Bullfighter_Matador_Bullfighter_47_703
+2
+471 108 135 173 0.897
+146 104 73 104 0.013

@@ -1,0 +1,5 @@
+29_Students_Schoolkids_Students_Schoolkids_29_941
+3
+573 192 123 148 0.799
+286 230 112 100 0.734
+171 424 72 63 0.011

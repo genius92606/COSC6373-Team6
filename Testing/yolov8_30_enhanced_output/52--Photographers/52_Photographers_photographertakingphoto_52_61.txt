@@ -1,0 +1,5 @@
+52_Photographers_photographertakingphoto_52_61
+3
+424 239 185 202 0.337
+586 58 157 220 0.055
+318 225 307 259 0.037

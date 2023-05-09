@@ -1,0 +1,6 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_536
+4
+497 135 41 59 0.765
+854 68 33 58 0.696
+631 176 57 62 0.679
+231 185 11 12 0.026

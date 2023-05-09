@@ -1,0 +1,4 @@
+52_Photographers_taketouristphotos_52_3
+2
+266 51 95 115 0.853
+700 160 81 100 0.800

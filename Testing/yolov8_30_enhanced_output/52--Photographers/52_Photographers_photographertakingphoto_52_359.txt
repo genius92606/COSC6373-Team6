@@ -1,0 +1,5 @@
+52_Photographers_photographertakingphoto_52_359
+3
+562 70 49 81 0.727
+410 443 14 16 0.047
+473 319 22 26 0.015

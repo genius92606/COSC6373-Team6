@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_553
+2
+436 109 113 148 0.869
+800 90 223 567 0.401

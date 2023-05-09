@@ -1,0 +1,5 @@
+52_Photographers_photographertakingphoto_52_701
+3
+291 281 98 113 0.816
+251 147 111 138 0.802
+1 294 36 47 0.019

@@ -1,0 +1,6 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_67
+4
+300 21 163 192 0.876
+627 194 134 202 0.776
+963 118 61 129 0.017
+642 285 75 108 0.012
