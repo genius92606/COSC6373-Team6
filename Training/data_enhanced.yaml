@@ -1,0 +1,4 @@
+train: C:/Users/Genius/Desktop/COSC6373-Team6/Training/data_enhanced/train/images/
+val: C:/Users/Genius/Desktop/COSC6373-Team6/Training/data_enhanced/val/images/
+nc: 1
+names: ['face']

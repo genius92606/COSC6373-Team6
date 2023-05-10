@@ -66,10 +66,10 @@ print("heavy/total: " + str(len(val_heavy_blur)/len(val_data.img_info)))
 
 """In the train data, there exist 4496 images contains heavy blur face, about 35% of the total train dataset. In the validation data, there exist 1164 images contains heavy blur face, about 36% of the total validation dataset. """
 
-def imgName(path):
-  return path[path.rindex('/')+1:]
-print(imgName(train_data.img_info[0]['img_path']))
-
+#def imgName(path):
+#  return path[path.rindex('/')+1:]
+#print(imgName(train_data.img_info[0]['img_path']))
+print(train_data.img_info[0]['img_path'])
 import shutil
 import os
 
