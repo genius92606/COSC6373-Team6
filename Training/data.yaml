@@ -1,0 +1,4 @@
+train: C:/Users/DreamFall/Desktop/cosc6373Code/Training/data/train/images/
+val: C:/Users/DreamFall/Desktop/cosc6373Code/Training/data/val/images/
+nc: 1
+names: ['face']

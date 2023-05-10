@@ -1,0 +1,3 @@
+ultralytics==8.0.96
+Cython==0.29.34
+ipython==8.12.1
