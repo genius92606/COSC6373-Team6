@@ -43,15 +43,15 @@ cd CodeFormer
 ```
 Then install more libraries
  ```bash
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 python basicsr/setup.py develop
-conda install -c conda-forge dlib (only for face detection or cropping with dlib)
+conda install -c conda-forge dlib  #(only for face detection or cropping with dlib)
 ```
 
 1. Preparing data:
 Find all the heavy blur images in train and val dataset, and put them in a new folder. Which will run the process file through terminal, to download WilderFace data and prepare the data for enhancement. It takes time.
  ```bash
-python ../widerface.py
+python ../wilderface.py
 ```
 2. Run Super Resolution (It will take forever.)
  ```bash
