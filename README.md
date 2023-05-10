@@ -110,16 +110,16 @@ python train.py -option yolov8_30
 # 2. Train on enhanced train data for 30 epochs
 python train.py -option yolov8_30_enhanced
   
-# 1. Train on original train data for 30 epochs with additional transformer layer
+# 3. Train on original train data for 30 epochs with additional transformer layer
 python train.py -option yolov8_30_transformer
 
-# 1. Train on enhanced train data for 30 epochs with additional transformer layer
+# 4. Train on enhanced train data for 30 epochs with additional transformer layer
 python train.py -option yolov8_30_transformer_enhanced
   
-# 1. Train on original train data for 100 epochs with additional transformer layer
+# 5. Train on original train data for 100 epochs with additional transformer layer
 python train.py -option yolov8_100_transformer
   
-# 1. Train on original train data for 300 epochs with additional transformer layer
+# 6. Train on original train data for 300 epochs with additional transformer layer
 python train.py -option yolov8_300_transformer
 ```
 
