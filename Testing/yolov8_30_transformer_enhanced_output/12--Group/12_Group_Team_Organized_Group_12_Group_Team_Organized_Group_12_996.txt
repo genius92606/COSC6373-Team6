@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_996
+3
+359 336 303 474 0.876
+603 669 299 423 0.860
+58 542 65 89 0.040

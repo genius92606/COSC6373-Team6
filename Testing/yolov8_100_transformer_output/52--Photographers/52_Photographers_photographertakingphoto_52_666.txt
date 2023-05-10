@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_666
+2
+525 257 352 459 0.786
+219 226 352 483 0.780

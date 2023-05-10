@@ -1,0 +1,4 @@
+2_Demonstration_Political_Rally_2_896
+2
+295 277 94 117 0.770
+692 44 87 119 0.757

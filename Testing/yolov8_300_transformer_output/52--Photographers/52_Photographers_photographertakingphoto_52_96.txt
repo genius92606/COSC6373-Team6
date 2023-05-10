@@ -1,0 +1,5 @@
+52_Photographers_photographertakingphoto_52_96
+3
+178 333 21 26 0.668
+110 360 21 23 0.173
+219 333 11 13 0.013

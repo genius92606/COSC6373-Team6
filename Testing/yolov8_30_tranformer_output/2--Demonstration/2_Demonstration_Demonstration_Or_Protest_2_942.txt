@@ -1,0 +1,4 @@
+2_Demonstration_Demonstration_Or_Protest_2_942
+2
+199 105 420 684 0.836
+201 1395 256 139 0.014

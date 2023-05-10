@@ -1,0 +1,5 @@
+47_Matador_Bullfighter_matadorbullfighting_47_38
+3
+622 92 52 38 0.563
+612 77 42 44 0.041
+608 67 31 51 0.024

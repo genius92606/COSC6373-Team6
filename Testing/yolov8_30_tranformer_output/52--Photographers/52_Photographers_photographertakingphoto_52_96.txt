@@ -1,0 +1,5 @@
+52_Photographers_photographertakingphoto_52_96
+3
+179 334 21 26 0.645
+110 361 21 22 0.286
+341 596 24 26 0.011

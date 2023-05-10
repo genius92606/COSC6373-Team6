@@ -1,0 +1,5 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_596
+3
+440 176 124 156 0.628
+299 768 72 125 0.070
+303 736 110 166 0.011

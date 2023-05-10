@@ -1,0 +1,4 @@
+36_Football_americanfootball_ball_36_373
+2
+642 66 70 91 0.769
+409 102 63 81 0.732

@@ -1,0 +1,4 @@
+13_Interview_Interview_2_People_Visible_13_381
+2
+396 182 182 246 0.832
+520 487 122 141 0.020

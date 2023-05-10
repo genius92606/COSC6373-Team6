@@ -1,0 +1,4 @@
+2_Demonstration_Political_Rally_2_896
+2
+293 280 93 112 0.798
+689 37 87 125 0.772

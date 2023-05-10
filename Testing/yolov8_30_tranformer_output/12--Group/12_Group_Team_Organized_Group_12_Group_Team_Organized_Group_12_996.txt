@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_996
+3
+361 339 302 467 0.869
+602 652 301 439 0.849
+57 549 65 86 0.039

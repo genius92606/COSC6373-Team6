@@ -1,0 +1,6 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_364
+4
+608 150 41 48 0.813
+308 127 40 52 0.791
+844 119 39 51 0.781
+158 116 37 48 0.714

@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_456
+2
+547 219 215 291 0.857
+713 446 211 250 0.012

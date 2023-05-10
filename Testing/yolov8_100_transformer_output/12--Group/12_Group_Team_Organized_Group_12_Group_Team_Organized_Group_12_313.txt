@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_313
+3
+640 116 50 72 0.632
+938 182 47 55 0.017
+361 534 17 20 0.010

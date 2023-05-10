@@ -1,0 +1,6 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_644
+4
+131 117 226 315 0.882
+651 396 336 266 0.038
+714 221 96 44 0.015
+683 222 155 54 0.010

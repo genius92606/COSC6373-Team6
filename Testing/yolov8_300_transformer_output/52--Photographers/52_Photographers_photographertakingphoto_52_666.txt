@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_666
+2
+203 214 369 495 0.805
+529 224 345 497 0.711

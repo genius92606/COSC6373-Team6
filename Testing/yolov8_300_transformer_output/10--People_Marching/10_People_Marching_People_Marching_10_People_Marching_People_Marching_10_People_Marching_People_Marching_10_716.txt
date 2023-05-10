@@ -1,0 +1,11 @@
+10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_716
+9
+327 347 53 65 0.813
+506 294 63 73 0.797
+769 266 73 92 0.793
+75 438 36 46 0.788
+122 420 40 40 0.783
+2 437 36 42 0.780
+198 410 43 48 0.767
+650 521 24 28 0.369
+931 458 32 34 0.212

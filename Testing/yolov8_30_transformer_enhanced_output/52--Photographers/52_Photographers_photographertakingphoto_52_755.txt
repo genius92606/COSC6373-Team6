@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_755
+2
+457 232 121 103 0.706
+480 298 120 98 0.123

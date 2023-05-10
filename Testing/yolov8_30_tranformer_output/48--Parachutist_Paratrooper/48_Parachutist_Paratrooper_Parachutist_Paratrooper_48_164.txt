@@ -1,0 +1,6 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_164
+4
+164 286 698 753 0.772
+420 1327 36 49 0.021
+68 0 868 982 0.018
+406 1322 40 52 0.010

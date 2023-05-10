@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_553
+2
+437 110 110 148 0.816
+798 55 225 617 0.058

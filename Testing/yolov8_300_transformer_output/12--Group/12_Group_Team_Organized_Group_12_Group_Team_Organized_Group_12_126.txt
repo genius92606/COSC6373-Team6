@@ -1,0 +1,6 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_126
+4
+94 157 10 15 0.389
+471 381 20 23 0.024
+474 376 17 19 0.015
+13 381 13 14 0.012

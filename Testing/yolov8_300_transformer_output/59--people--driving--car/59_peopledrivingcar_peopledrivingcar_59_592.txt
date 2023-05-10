@@ -1,0 +1,5 @@
+59_peopledrivingcar_peopledrivingcar_59_592
+3
+390 65 35 37 0.750
+415 249 24 28 0.075
+959 130 38 39 0.025

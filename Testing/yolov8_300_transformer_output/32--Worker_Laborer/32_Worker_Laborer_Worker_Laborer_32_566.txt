@@ -1,0 +1,4 @@
+32_Worker_Laborer_Worker_Laborer_32_566
+2
+671 366 47 68 0.757
+105 456 9 11 0.160

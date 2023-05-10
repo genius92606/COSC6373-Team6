@@ -1,0 +1,5 @@
+47_Matador_Bullfighter_matadorbullfighting_47_561
+3
+212 0 54 55 0.812
+309 0 34 21 0.038
+432 494 72 59 0.017

@@ -1,0 +1,5 @@
+59_peopledrivingcar_peopledrivingcar_59_357
+3
+428 54 75 132 0.672
+102 19 51 98 0.158
+68 19 82 127 0.039

@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_266
+2
+288 88 129 223 0.850
+627 218 115 171 0.822

@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_451
+2
+438 128 227 284 0.805
+905 582 118 181 0.164

@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_76
+2
+625 116 96 112 0.604
+337 293 77 62 0.011

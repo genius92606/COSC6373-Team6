@@ -1,0 +1,3 @@
+32_Worker_Laborer_Worker_Laborer_32_68
+1
+389 356 354 356 0.763

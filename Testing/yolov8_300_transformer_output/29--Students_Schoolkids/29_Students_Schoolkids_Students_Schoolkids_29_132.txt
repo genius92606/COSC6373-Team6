@@ -1,0 +1,5 @@
+29_Students_Schoolkids_Students_Schoolkids_29_132
+3
+16 3 197 211 0.869
+724 146 158 205 0.838
+475 90 150 178 0.828

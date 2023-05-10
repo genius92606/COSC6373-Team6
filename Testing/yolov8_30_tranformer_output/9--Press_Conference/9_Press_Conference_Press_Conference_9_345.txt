@@ -1,0 +1,4 @@
+9_Press_Conference_Press_Conference_9_345
+2
+388 255 229 328 0.820
+230 432 108 179 0.741

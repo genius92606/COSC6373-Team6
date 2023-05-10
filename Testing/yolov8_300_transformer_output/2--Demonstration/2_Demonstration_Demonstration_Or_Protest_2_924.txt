@@ -1,0 +1,4 @@
+2_Demonstration_Demonstration_Or_Protest_2_924
+2
+670 166 164 165 0.717
+618 278 12 15 0.013

@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_90
+2
+203 178 237 409 0.233
+351 177 218 391 0.156

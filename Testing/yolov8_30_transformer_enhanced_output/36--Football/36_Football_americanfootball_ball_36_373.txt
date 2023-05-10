@@ -1,0 +1,4 @@
+36_Football_americanfootball_ball_36_373
+2
+644 63 67 92 0.752
+407 105 60 76 0.680

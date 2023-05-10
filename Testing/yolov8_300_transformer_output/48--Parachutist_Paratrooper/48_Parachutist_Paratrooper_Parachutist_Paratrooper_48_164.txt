@@ -1,0 +1,6 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_164
+4
+143 308 711 720 0.791
+411 1303 55 55 0.023
+419 1322 37 45 0.020
+397 143 34 32 0.016

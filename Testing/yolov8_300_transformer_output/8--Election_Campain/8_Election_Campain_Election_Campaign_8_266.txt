@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_266
+2
+627 219 116 168 0.826
+284 83 131 231 0.789

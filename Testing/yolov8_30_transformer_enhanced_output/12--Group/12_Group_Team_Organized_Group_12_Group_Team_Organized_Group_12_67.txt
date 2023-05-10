@@ -1,0 +1,6 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_67
+4
+308 20 154 187 0.836
+629 173 127 232 0.702
+0 49 22 141 0.026
+0 35 37 141 0.011

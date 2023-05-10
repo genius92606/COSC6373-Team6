@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_451
+2
+434 130 220 274 0.763
+250 709 79 101 0.089

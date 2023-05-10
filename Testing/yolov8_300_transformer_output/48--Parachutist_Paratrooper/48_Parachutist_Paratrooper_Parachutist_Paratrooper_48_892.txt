@@ -1,0 +1,5 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_892
+3
+658 182 130 175 0.829
+178 247 128 172 0.813
+472 128 121 162 0.798

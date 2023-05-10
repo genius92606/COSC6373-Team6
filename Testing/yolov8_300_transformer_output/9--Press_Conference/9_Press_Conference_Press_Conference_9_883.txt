@@ -1,0 +1,4 @@
+9_Press_Conference_Press_Conference_9_883
+2
+270 186 288 378 0.888
+970 1494 24 31 0.015

@@ -1,0 +1,5 @@
+52_Photographers_photographertakingphoto_52_776
+3
+327 273 544 536 0.359
+331 0 250 77 0.016
+50 152 851 1091 0.014

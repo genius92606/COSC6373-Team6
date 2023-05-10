@@ -1,0 +1,6 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_244
+4
+396 53 136 168 0.853
+614 104 140 208 0.782
+144 101 135 147 0.706
+484 590 81 66 0.030

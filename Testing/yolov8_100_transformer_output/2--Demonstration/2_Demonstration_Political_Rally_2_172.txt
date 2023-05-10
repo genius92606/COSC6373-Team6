@@ -1,0 +1,3 @@
+2_Demonstration_Political_Rally_2_172
+1
+396 288 348 480 0.854

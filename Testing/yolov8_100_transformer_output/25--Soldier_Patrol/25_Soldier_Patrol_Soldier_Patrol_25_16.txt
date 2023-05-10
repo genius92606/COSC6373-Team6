@@ -1,0 +1,4 @@
+25_Soldier_Patrol_Soldier_Patrol_25_16
+2
+266 142 82 104 0.807
+209 556 9 12 0.020

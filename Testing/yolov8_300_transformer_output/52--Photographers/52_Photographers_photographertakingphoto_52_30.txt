@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_30
+2
+290 261 83 101 0.528
+328 252 71 66 0.010

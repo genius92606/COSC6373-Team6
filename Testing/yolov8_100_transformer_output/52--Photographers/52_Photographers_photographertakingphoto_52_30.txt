@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_30
+2
+295 261 84 92 0.688
+331 258 60 74 0.016

@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_126
+3
+94 157 10 14 0.230
+99 157 12 15 0.020
+699 338 72 67 0.016

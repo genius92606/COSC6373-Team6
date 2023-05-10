@@ -1,0 +1,5 @@
+52_Photographers_photographertakingphoto_52_303
+3
+433 219 71 93 0.785
+257 214 81 97 0.096
+276 199 98 55 0.013

@@ -1,0 +1,5 @@
+47_Matador_Bullfighter_matadorbullfighting_47_660
+3
+482 211 113 135 0.803
+223 799 122 78 0.577
+137 795 117 84 0.011

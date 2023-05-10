@@ -1,0 +1,4 @@
+13_Interview_Interview_2_People_Visible_13_475
+2
+325 190 216 338 0.859
+630 200 145 269 0.772

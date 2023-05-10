@@ -1,0 +1,5 @@
+29_Students_Schoolkids_Students_Schoolkids_29_941
+3
+571 184 130 160 0.808
+288 227 113 101 0.750
+0 587 30 90 0.015

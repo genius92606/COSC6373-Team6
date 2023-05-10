@@ -1,0 +1,5 @@
+52_Photographers_photographertakingphoto_52_701
+3
+289 277 100 120 0.769
+251 133 110 152 0.714
+1 282 44 67 0.036

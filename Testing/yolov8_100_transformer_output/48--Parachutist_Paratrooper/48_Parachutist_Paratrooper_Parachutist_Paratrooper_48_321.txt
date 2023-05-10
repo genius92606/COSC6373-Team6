@@ -1,0 +1,6 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_321
+4
+895 23 35 54 0.819
+123 20 40 53 0.818
+350 26 29 51 0.718
+618 32 34 43 0.020

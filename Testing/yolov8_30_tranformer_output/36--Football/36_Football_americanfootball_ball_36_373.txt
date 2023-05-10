@@ -1,0 +1,4 @@
+36_Football_americanfootball_ball_36_373
+2
+643 66 68 89 0.758
+405 107 62 78 0.624

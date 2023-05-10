@@ -1,0 +1,5 @@
+52_Photographers_photographertakingphoto_52_310
+3
+639 173 73 113 0.654
+615 184 58 100 0.039
+668 177 56 107 0.012

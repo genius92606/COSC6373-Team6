@@ -1,0 +1,6 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_364
+4
+609 149 41 48 0.841
+844 118 39 52 0.786
+307 126 40 53 0.779
+159 114 35 49 0.744

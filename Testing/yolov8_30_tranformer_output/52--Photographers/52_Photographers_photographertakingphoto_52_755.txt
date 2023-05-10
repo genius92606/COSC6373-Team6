@@ -1,0 +1,5 @@
+52_Photographers_photographertakingphoto_52_755
+3
+463 240 113 98 0.639
+762 452 68 50 0.031
+295 244 326 204 0.027

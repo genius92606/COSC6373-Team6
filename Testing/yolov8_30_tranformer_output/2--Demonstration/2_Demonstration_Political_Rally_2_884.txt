@@ -1,0 +1,4 @@
+2_Demonstration_Political_Rally_2_884
+2
+133 233 166 193 0.834
+2 236 125 213 0.012

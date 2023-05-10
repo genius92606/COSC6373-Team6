@@ -1,0 +1,4 @@
+25_Soldier_Patrol_Soldier_Patrol_25_467
+2
+769 56 35 54 0.522
+24 2 467 425 0.014

@@ -1,0 +1,5 @@
+52_Photographers_photographertakingphoto_52_653
+3
+476 138 269 247 0.205
+448 149 358 388 0.017
+401 157 199 478 0.015

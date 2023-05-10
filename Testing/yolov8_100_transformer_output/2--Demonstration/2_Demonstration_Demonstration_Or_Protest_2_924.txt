@@ -1,0 +1,5 @@
+2_Demonstration_Demonstration_Or_Protest_2_924
+3
+662 159 171 174 0.692
+622 278 13 15 0.020
+937 189 55 71 0.012

@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_357
+2
+354 661 20 24 0.014
+132 814 15 16 0.011

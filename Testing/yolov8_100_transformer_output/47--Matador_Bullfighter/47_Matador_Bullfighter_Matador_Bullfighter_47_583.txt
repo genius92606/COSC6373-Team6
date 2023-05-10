@@ -1,0 +1,5 @@
+47_Matador_Bullfighter_Matador_Bullfighter_47_583
+3
+380 159 254 323 0.882
+796 829 20 23 0.020
+787 831 16 20 0.010

@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_76
+2
+637 125 84 75 0.573
+606 133 104 106 0.023

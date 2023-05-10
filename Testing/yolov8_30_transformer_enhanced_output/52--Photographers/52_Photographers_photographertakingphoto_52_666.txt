@@ -1,0 +1,5 @@
+52_Photographers_photographertakingphoto_52_666
+3
+177 210 392 498 0.771
+524 257 349 453 0.567
+877 311 128 195 0.157

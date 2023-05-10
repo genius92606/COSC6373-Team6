@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_67
+3
+305 24 155 185 0.826
+631 203 122 193 0.774
+888 171 127 158 0.014

@@ -1,0 +1,3 @@
+59_peopledrivingcar_peopledrivingcar_59_117
+1
+200 120 160 244 0.776

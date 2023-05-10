@@ -1,0 +1,6 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_789
+4
+299 161 51 68 0.795
+678 457 46 59 0.785
+522 600 50 68 0.780
+559 270 23 30 0.022

@@ -1,0 +1,5 @@
+47_Matador_Bullfighter_Matador_Bullfighter_47_566
+3
+690 272 66 67 0.701
+377 353 35 53 0.015
+133 118 236 316 0.013

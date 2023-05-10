@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_755
+2
+463 241 109 98 0.755
+540 271 97 101 0.099

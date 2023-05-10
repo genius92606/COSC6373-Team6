@@ -1,0 +1,5 @@
+52_Photographers_photographertakingphoto_52_125
+3
+829 138 38 81 0.209
+837 133 48 79 0.020
+1007 134 17 75 0.010

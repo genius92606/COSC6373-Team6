@@ -1,0 +1,4 @@
+47_Matador_Bullfighter_matadorbullfighting_47_354
+2
+0 12 160 435 0.089
+647 338 24 29 0.013
